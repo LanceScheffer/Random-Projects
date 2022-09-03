@@ -1,0 +1,21 @@
+#container{
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+.bulb-off {
+   width: 500px;
+   height: 700px;
+   background: url("https://source.unsplash.com/random?lightbulb"
+   ) no-repeat;
+   margin: auto;
+}
+
+/* .bulb-on{
+    width: 500px;
+    height: 700px;
+    background: url('image.png') no-repeat;
+    margin: auto;
+} */
