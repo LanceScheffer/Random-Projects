@@ -1,0 +1,44 @@
+html, body {
+    width: 60%;
+    margin: 0 auto;
+    font-family: cursive;
+    color: rgb(45, 207, 66);
+    background-color: rgb(201, 213, 224);
+}
+
+.container {
+    width: 360px;
+    color: rgb(41, 23, 180);
+    font-size: large;
+}
+
+#inputField {
+    width: 300px;
+    height: 46px;
+    border: 1px solid rgb(74, 22, 217);
+    outline: none;
+    font-size: 20px;
+    vertical-align: middle;
+    font-style: cursive;
+    background-color: rgb(193, 218, 49);
+}
+
+#addToDo {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+    color: rgb(75, 24, 152);
+    background-color: rgb(209, 98, 19);
+}
+
+.to-dos {
+    margin-top: 10px;
+}
+
+.paragrapraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
